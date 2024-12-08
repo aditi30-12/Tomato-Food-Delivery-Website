@@ -8,6 +8,7 @@ import Placeorder from './pages/Placeorder/Placeorder'
 
 const App = () => {
   return (
+    <>
     <div className='app'>
       <Navbar/>
     
@@ -18,6 +19,9 @@ const App = () => {
       </Routes>
 
       </div>
+      <footer/>
+    </>
+    
   )
 }
 
