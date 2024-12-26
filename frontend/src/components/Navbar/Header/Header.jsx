@@ -8,9 +8,7 @@ const Header = () => {
             <p>Choose from a diverse menu featuring a delectable array of dishes crafted with the finest ingrendients and culinary experiences.Our mission is to satisfy your cravings and elevate your dinning experiences.</p>
             <button>View Menu</button>
         </div>
-
     </div>
   )
 }
-
 export default Header
