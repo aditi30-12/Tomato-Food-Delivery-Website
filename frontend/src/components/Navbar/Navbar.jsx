@@ -4,6 +4,7 @@ import { assets } from '../../assets/assets'
 import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import { useContext } from 'react'
+import { StoreContext } from '../../context/storecontext'
     
 
 const Navbar = ({setShowLogin}) => {
